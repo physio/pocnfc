@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LatLngPOC</string>
+    <string name="tap_on_the_back_of_phone">Tap on the back of phone</string>
+    <string name="error_reding_data">Error while reading card data \nTry again: tap card and hold for a while.</string>
+    <string name="state">State</string>
+    <string name="thanks_for_your_payment">Thanks for your payment</string>
+    <string name="authorisation_9876543">Authorisation #9876543</string>
+    <string name="new_payment">New PAYMENT</string>
+    <string name="send_receipt">Send Receipt</string>
+    <string name="charge">Charge</string>
+    <string name="library">Library</string>
+    <string name="keypad">Keypad</string>
+    <string name="card_expiry">Card Expiry:</string>
+    <string name="card_type">Card type:</string>
+    <string name="card_number">Card number:</string>
+</resources>
